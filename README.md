@@ -5,13 +5,13 @@ coWorkr Test Project
 
 ## Project Summary
 
-###Objective
+### Objective
 Quick test website to show proficiency in Linux, Meteor, MongoDb, Javascript and general web/server coding.
 
-###Goals
+### Goals
 Put together a GCE instance with a simple actively updating graph of random data.  Time vs Random number.
 
-###Outline
+### Outline
 A quick GCE server instance running meteor and MongoDb.  
 
 * Clone this repository for the project code.
@@ -24,7 +24,7 @@ A quick GCE server instance running meteor and MongoDb.
 * Use GitHub and Git to upload the code to the cloned repository, so we can take a look.  Only document what is not obvious by reading the code.
 
 
-###Extras:  
+### Extras:  
 We use the following packages on the site.  If you have time and want to use them would be a plus.
 
 * https://materializecss.com - Front end CSS framework
