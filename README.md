@@ -9,7 +9,7 @@ coWorkr Test Project
 Quick test website to show proficiency in Linux, [Meteor](https://www.meteor.com), [MongoDb](https://docs.mongodb.com/manual/), Javascript, [NodeJS](https://nodejs.org), Git and general web/server coding.
 
 ### Goals
-Put together a GCE instance with a simple actively updating graph of random data.  Time vs Random number.
+Put together a GCE instance or use the free [Meteor Cloud Deployment](https://www.meteor.com/cloud) with a simple actively updating graph of random data.  Time vs Random number.
 
 ### Outline
 A quick GCE or AWS server instance running meteor and MongoDb.  
